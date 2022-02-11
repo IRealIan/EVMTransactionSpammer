@@ -7,6 +7,8 @@ docker run --rm --name moonbeam_development -p 9944:9944 -p 9933:9933 purestake/
 ``
 Sealing 6000 allows our node to generate automatically a new block every 6 secs.
 
+## Deploy the contract
+Deploy the smartcontract `stringStore.sol` to store strings on the EVM.
 
 ## Sending mass transactions
 Sending mass transactions to the EVM with `transactions_sender.js`
