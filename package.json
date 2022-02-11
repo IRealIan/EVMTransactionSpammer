@@ -1,0 +1,22 @@
+{
+  "name": "evmtransactionstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transactions_sender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRealIan/EVMTransactionsTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRealIan/EVMTransactionsTest/issues"
+  },
+  "homepage": "https://github.com/IRealIan/EVMTransactionsTest#readme",
+  "dependencies": {
+    "ethers": "^5.5.4"
+  }
+}
